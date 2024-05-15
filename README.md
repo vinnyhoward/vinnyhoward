@@ -1,7 +1,7 @@
-# Hi, I'm Vince 👋🏽  
+# Hi, I'm Vince 👋🏽
 
 👨🏻‍💻 Check out my [portfolio](https://www.vinnyhoward.dev/) to learn more about me.
- 
+
 ## 🧰 Languages and Tools
 
 ### Frontend
@@ -19,11 +19,13 @@
 ![Sanity.io](https://img.shields.io/badge/Sanity.io-black?style=for-the-badge&logo=sanity&logoColor=white)
 
 ### Backend
+
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -34,18 +36,18 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- 
-## ✨ Fun Facts ✨ 
 
-🏃🏻‍➡️ I love doing obstacle course races 
+## ✨ Fun Facts ✨
 
-👾 Dota 2 is my favorite game (I'm only a Archon noob)
+🏃🏻‍➡️ I love doing obstacle course races.
 
-🔫 Former designer of custom gun skins for Counter Strike [Check out my designs!](https://steamcommunity.com/id/VinceOmega/myworkshopfiles/)
+👾 Dota 2 is my favorite game. (I'm only a Archon noob)
 
-🦀 I'm learning Rust in my free time (Currently playing with [Bevy](https://bevyengine.org/))
+<!-- 🔫 Former designer of custom gun skins for Counter Strike. [Check out my designs!](https://steamcommunity.com/id/VinceOmega/myworkshopfiles/) -->
+
+🦀 I'm learning Rust in my free time. (Currently playing with [Bevy](https://bevyengine.org/))
 
 ## 📫 Contact
 
- For a quick response, message me on [LinkedIn](https://www.linkedin.com/in/vinnyhoward/). 
- 
+For a quick response, message me on [LinkedIn](https://www.linkedin.com/in/vinnyhoward/).
+

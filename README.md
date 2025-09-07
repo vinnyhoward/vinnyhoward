@@ -43,9 +43,9 @@
 
 👾 Dota 2 is my favorite game. (I'm only a Archon noob)
 
-<!-- 🔫 Former designer of custom gun skins for Counter Strike. [Check out my designs!](https://steamcommunity.com/id/VinceOmega/myworkshopfiles/) -->
+🔫 Former designer of custom gun skins for Counter Strike. [Check out my designs!](https://steamcommunity.com/id/VinceOmega/myworkshopfiles/)
 
-🦀 I'm learning Rust in my free time. (Currently playing with [Bevy](https://bevyengine.org/))
+🦀 Currently learning how to build [Bitcoin in Rust](https://braiins.com/books/building-bitcoin-in-rust)
 
 ## 📫 Contact
 
